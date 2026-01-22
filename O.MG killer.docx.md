@@ -58,4 +58,4 @@ Through all of this I’m going to work with my security team to implement a det
 
 Out of box USB Vendor ID information:
 
-![A screenshot of a computerAI-generated content may be incorrect.](O.MG/Pictureqq.png)
+![A screenshot of a computerAI-generated content may be incorrect.](O.MG/Picture11.png)
