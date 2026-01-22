@@ -6,7 +6,7 @@ So I picked one up and started exploring one out of the box. A major feature for
 
 Within the UI of the cable I found the button to kill the cable entirely and this is what it looks like:
 
-![A screenshot of a black box with white textAI-generated content may be incorrect.][image1](O.MG/Picture1.png)
+![A screenshot of a black box with white textAI-generated content may be incorrect.](O.MG/Picture1.png)
 
 I did a bit more digging by inspecting the DOM element:
 
